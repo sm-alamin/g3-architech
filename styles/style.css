@@ -283,6 +283,8 @@ Prepared by: Mohammad Al-Amin
   font-size: 16px;
   color: var(--light-gray);
   margin-top: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 /*** 
 
